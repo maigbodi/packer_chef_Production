@@ -1,7 +1,7 @@
 ---
 driver:
   name: ec2
-  S
+  
 
 provisioner:
   name: chef_zero
